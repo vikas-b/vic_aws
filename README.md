@@ -1,4 +1,2 @@
 # vic_aws
-Vic Aws Manager 
-vic vic vic
-
+Vic Aws Manager
