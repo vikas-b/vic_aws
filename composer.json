@@ -1,0 +1,9 @@
+{
+	"name":"vic/vic_aws",
+	"license": "MIT",
+    "type": "project",
+    "description": "AWS services",
+    "autoload": {
+        "files": [ "lib/VIC/AWS/aws-autoloader.php" ]
+    }
+}
